@@ -7,7 +7,7 @@ Setup Instructions for Metajam 2022 Metasphere exhibits
 Program should automatically startup. Make sure the Kinect is on and connected before that.
 
 ### Possible errors
-- Ape appears to be stuck at a weird pose when there is no one. The cause of this may likely be due to a misdetection- something captured by the camera is detected to be a human pose. To fix this, just restart the program.
+- Ape appears to be stuck at a weird pose when there is no one. Restart the program.
 
 ---
 ## Cube Mirror
