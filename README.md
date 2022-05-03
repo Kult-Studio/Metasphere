@@ -29,6 +29,8 @@ Normally, the camera server will wait for the Unity application before checking 
   **How to edit camera script**  
   Recommended: Some familiarity with coding. The path to the python script can be found in the bat file using a text editor from the Startup folder (See Additional troubleshooting). 
 
+- 'Loading configuration' does not disappear. Unplug and plug back the arduino (sensor) usb to the pc. Then in the game, press L on keyboard to reset connection until you see the sensor values.
+
 - 'Failed to connect to Arduino'. Follow the instructions and check the Arduino port in the txt file. Check the Arduino port by right-click windows icon -> Device manager -> Ports
 ![port-check.gif](Documentation/port-check.gif)
 In this image the port is COM3. Change the port in the txt file to reflect this as well.
