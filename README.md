@@ -23,7 +23,7 @@ Program should automatically startup. Make sure the Realsense connected to a USB
 Close the camera server application if it's running. Run 'camera_test.bat' from Desktop. Adjust the camera and lighting until all templates can be properly recognized.
 
 ### Possible errors
-- Camera server fails to startup.  
+- Camera server window closes itself.  
 Normally, the camera server will wait for the Unity application before checking the camera. If the program ends by itself, try running 'camera_test.bat'. Should it shutsdown by itself again, this may be due to the camera not properly detected. This may be due to spoilt camera or unplugging and plugging in of more usb cameras. If it's the latter case, you can try to change the cam_src in the script to another number like 1 or 0.  
   
   **How to edit camera script**  
