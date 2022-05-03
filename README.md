@@ -37,7 +37,7 @@ In this image the port is COM3. Change the port in the txt file to reflect this 
 
 - One side of the projection is black. Unplug and replug the hdmis and the usb c on the mini recorders of the mapping computer.
 
-- The Unity app only runs on one side of the screen, while the other remains at Desktop. Restart the computer. Otherwise see [here](/Multiscreen Setup.md).
+- The Unity app only runs on one side of the screen, while the other remains at Desktop. Restart the computer. Otherwise see [here](/MultiscreenSetup.md).
 
 ---
 ## Additional troubleshooting
